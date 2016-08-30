@@ -17,7 +17,7 @@
 
 .bg {
   
-  background-image: url('poview.png');
+  background-image: image-url('poview.png');
   position: fixed; 
   top: 0; 
   left: 0; 
